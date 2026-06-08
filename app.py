@@ -2,9 +2,7 @@ import streamlit as st
 
 # Sahifa sozlamalari
 st.set_page_config(page_title="kayfiyat uchun", page_icon="👨‍💻")
-
-st.title("👨‍💻 kayfiyat uchun
-")
+st.title("👨‍💻 kayfiyat uchun")
 st.sidebar.header("Menyu")
 
 menu = ["Ism Testi", "Dangasalik Detektori", "Kelajak Bashorati", "Abdulaziz bilan Bahs", "Mantiqiy Tuzoq", "Sirli Tugma"]
